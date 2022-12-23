@@ -1,7 +1,7 @@
 Excel Database of webcams from Romania with title, description, og:image link location, og:video link location, embed iframe code for implementing to other websites and the m3u8 link location.
 
 Source: webcamromania.ro
-Player: anym3u8player.com
+Player: https://anym3u8player.com
 
 Example of the Excel database:
 
